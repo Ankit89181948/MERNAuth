@@ -16,9 +16,3 @@ A full-stack authentication system built using the MERN stack (MongoDB, Express,
 - **Node.js**: JavaScript runtime for executing backend code.
 - **Axios**: HTTP client for making API requests to the backend.
   
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
